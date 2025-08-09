@@ -1,0 +1,17 @@
+body {
+  background-color: pink;
+  color: lightcoral;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+body.dark-mode {
+  background-color: lightcyan;
+  color:lightcoral;
+}
+
+button {
+  margin: 1rem;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+
+}
