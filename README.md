@@ -10,5 +10,5 @@ A simple implementation showcasing how to toggle between **light** and **dark** 
 - Detect system theme preference with `prefers-color-scheme` media query (optional)
 # Screenshots
 [View here](https://drive.google.com/file/d/1xF6NYcIx16CEfiB0aJXTDGguCUAUxIof/view?usp=sharing)
-#Demo video
+# Demo video
 [View here](https://drive.google.com/file/d/1zIaBBU83IBTGQEZXBaXnn9I_6dpuFgjs/view?usp=sharing)
